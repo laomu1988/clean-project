@@ -1,0 +1,32 @@
+{
+  "name": "clean-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laomu1988/clean-project.git"
+  },
+  "keywords": [
+    "clean",
+    "clean-files",
+    "clean-project",
+    "clean-css",
+    "clean-img",
+    "clean-js"
+  ],
+  "author": "laomu1988",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laomu1988/clean-project/issues"
+  },
+  "homepage": "https://github.com/laomu1988/clean-project#readme",
+  "dependencies": {
+    "filter-files": "^0.4.0",
+    "lodash": "^4.13.1",
+    "md5-file": "^3.1.0"
+  }
+}
